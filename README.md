@@ -13,7 +13,7 @@
 
 
 
-<img align="right" alt="Danilo-pic" height="110" style="border-radius:40px;" src="https://gcpofw.bn.files.1drv.com/y4mk9m7gQicVzHP1a9YuPI3arNYHbNlCP5AUey3D9FmDnKWpAftC7EHttblhdSDaPLIjGSJFnGvXASAxde0L_USc17YE0R37HZJC7jMdG1t0jXli8Y7IkpLWEsEuQDSXj5VCmPIWkI5WWHjFvbzvnnt5zQYGEAGW_R0s4e_CY2VLM0lg3GgG8rYD3fJ9WNLMkIDJOZGHKHWODlmlfz2dtqQRA/DBS%20-%20JPG.jpg?psid=1">
+
 </div>
   
   ##
