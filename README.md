@@ -1,4 +1,3 @@
-  Analista de Negócios e Dados
 <div align="center">
   <a href="https://github.com/DaniloBenetati">
   <img height="150m" src="https://github-readme-stats.vercel.app/api?username=DaniloBenetati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
